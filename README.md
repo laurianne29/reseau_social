@@ -1,2 +1,10 @@
-# reseau_social
-Création d'un réseau social
+
+Réseau social
+=============
+Architecture dossier :
+------------------------
+* css
+* filters
+* inc
+* js
+* views
